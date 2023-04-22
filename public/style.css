@@ -1,7 +1,7 @@
 .desktop {
   width: 800px;
   height: 600px;
-  background-image: url('desktop.jpg');
+  background-image: url("desktop.jpg");
   position: absolute;
   margin: auto;
   top: 0;
