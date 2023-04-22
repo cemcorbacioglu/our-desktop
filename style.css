@@ -1,0 +1,41 @@
+.desktop {
+  width: 800px;
+  height: 600px;
+  background-image: url('desktop.jpg');
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.icon {
+  position: absolute;
+  text-align: center;
+  width: 80px; /* You can adjust this value based on the size of your icons */
+}
+
+.icon img {
+  width: 80%;
+  height: auto;
+}
+
+.icon p {
+  margin: 0;
+  font-size: 14px;
+  color: white;
+}
+
+#this_computer {
+  top: 20px;
+  left: 20px;
+}
+
+#recycle_bin {
+  bottom: 20px;
+  right: 20px;
+}
