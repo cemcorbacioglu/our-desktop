@@ -20,7 +20,7 @@
 }
 
 .icon img {
-  width: 100%;
+  width: 80%;
   height: auto;
   filter: drop-shadow(0px 0px 3px white);
 }
@@ -34,7 +34,7 @@
     -1px 1px 2px black;
 }
 
-#this_computer {
+#computer {
   top: 20px;
   left: 20px;
 }
@@ -42,4 +42,14 @@
 #recycle_bin {
   bottom: 20px;
   right: 20px;
+}
+
+#documents {
+  top: 130px;
+  left: 20px;
+}
+
+#internet {
+  top: 240px;
+  left: 20px;
 }
