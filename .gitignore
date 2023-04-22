@@ -21,3 +21,6 @@ dist/
 
 # Uploads folder
 uploads/
+
+# Sometimes I put some zip files for icons. Let's avoid them
+.zip
